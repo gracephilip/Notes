@@ -124,3 +124,13 @@ print("{:+020}".format(234))
 # 142.3 >> $142.30
 print("${:.2f}".format(142.3))
 
+# Git hub info
+# repository - where the project files are stored (repo)
+# master - repository main branch (where integration happens)
+# clone - copy of existing repo. From github repo to local repo.
+# commit - submit file to local repo
+# pull (update) - grabe the latest code from the repo
+# push - submit code to a remote repo ( from local to github)
+# head - reference to the node where the repo points (most current official update)
+
+
