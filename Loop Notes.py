@@ -78,5 +78,7 @@ for i in range(100):
     print(n) # skipped over for odd numbers
 
 
-
+for a in range(1, 10):
+    for b in range(10):
+        print(str(a) + str(b))
 
