@@ -12,3 +12,4 @@ def product_sum(n1, n2):
 
 if __name__ == "__main__":
     product_sum(4, 5)
+
